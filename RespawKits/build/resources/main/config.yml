@@ -1,0 +1,15 @@
+Kits:
+  #  slots from the left in the hotbar
+  Item-1: "CHAINMAIL_HELMET"
+  Item-2: "CHAINMAIL_CHESTPLATE"
+  Item-3: "CHAINMAIL_LEGGINGS"
+  Item-4: "CHAINMAIL_BOOTS"
+  Item-5: "STONE_SWORD"
+  Item-6: "STONE_PICKAXE"
+  Item-7: "STONE_SHOVEL"
+  Item-8: "STONE_AXE"
+  Item-9: "STONE_HOE"
+  # OffHand
+  Item-10: "TOTEM_OF_UNDYING"
+
+

@@ -1,0 +1,9 @@
+name: RespawKits
+version: '${version}'
+main: pikzstudios.respawkits.RespawKits
+api-version: '1.20'
+author: PashMash
+commands:
+  kitreload:
+    description: Reloads respawn kits
+    permission: kit.reload
